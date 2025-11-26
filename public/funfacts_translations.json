@@ -1,0 +1,34 @@
+{
+  "en": {
+    "funFacts": [
+      {
+        "text": "I have two cats and a dog"
+      },
+      {
+        "text": "I play fortnite"
+      },
+    {
+      "text": "I enjoy the rain"
+    },
+    {
+      "text": "I read a couple of books every week"
+    }
+    ]
+  },
+  "no": {
+    "funFacts": [
+      {
+        "text": "Jeg har to katter og en hund"
+      },
+      {
+        "text": "Jeg spiller fortnite"
+      },
+      {
+        "text": "Jeg liker regn"
+      },
+      {
+        "text": "Jeg leser et par bøker i uken"
+      }
+    ]
+  }
+}
